@@ -58,7 +58,8 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:START -->
 🏆  2000 codeforces points!          
 🌸  Completed 0 tasks today           
-✅  Completed 2 tasks so far           
+✅  Completed 2 tasks so far  
+<img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif" width="30px">:
 
 <!-- TODO-IST:END -->
 
