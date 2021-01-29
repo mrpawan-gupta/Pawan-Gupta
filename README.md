@@ -15,7 +15,7 @@
 <br />
 
 Hi, I'm [Pawan Gupta](https://www.instagram.com/______.pawan___gupta___/), a passionate self-taught Full Stack Web Developer 🚀 from India.
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   
 **Talking about Personal Stuffs:**
