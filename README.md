@@ -1,5 +1,5 @@
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=mrpawan-gupta.Pawan-Gupta)
 <a href="https://twitter.com/IampawanGuptaa">
   <img align="left" alt="Pawan Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,7 +14,7 @@
  </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=mrpawan-gupta.Pawan-Gupta)
+
 
 <br />
 
