@@ -9,6 +9,9 @@
 <a href="https://www.facebook.com/guptapawanro">
     <img align="left"alt="Pawan Gupta | Facebook" src="https://simpleicons.org/icons/facebook.svg" width="22px" >
  </a>
+ <a href="https://www.instagram.com/______.pawan___gupta___/">
+    <img align="left" alt="Pawan | Instagram" src="https://simpleicons.org/icons/instagram.svg" width="22px">
+ </a>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mrpawan-gupta.Pawan-Gupta)
