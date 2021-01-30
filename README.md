@@ -12,10 +12,10 @@
  <a href="https://www.instagram.com/______.pawan___gupta___/">
     <img align="left" alt="Pawan | Instagram" src="https://simpleicons.org/icons/instagram.svg" width="22px">
  </a>
- <a href ="https://www.codechef.com/users/mrpawan_gupta" target="_blank">
+ <a align="left" alt="Pawan Gupta | Codeforces" href ="https://www.codechef.com/users/mrpawan_gupta" target="_blank">
     <img src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" width="22px">
 </a>
-<a href ="https://codeforces.com/profile/Mr.pawan_gupta" target="_blank">
+<a align="left" alt="Pawan Gupta | Codechef" href ="https://codeforces.com/profile/Mr.pawan_gupta" target="_blank">
     <img src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" width="22px">
  </a>
 
