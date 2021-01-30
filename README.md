@@ -16,7 +16,7 @@
     <img src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" width="22px">
 </a>
 <a align="left" alt="Pawan Gupta | Codechef" href ="https://codeforces.com/profile/Mr.pawan_gupta" target="_blank">
-    <img src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" width="22px">
+    <img src="https://1.bp.blogspot.com/-pBimI1ZhYAA/Wnde0nmCz8I/AAAAAAAABPI/5LZ2y9tBOZIV-pm9KNbyNy3WZJkGS54WgCPcBGAYYCw/s1600/codeforce.png" width="25px">
  </a>
 
 <br />
