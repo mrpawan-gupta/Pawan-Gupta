@@ -13,15 +13,12 @@
     <img align="left" alt="Pawan | Instagram" src="https://simpleicons.org/icons/instagram.svg" width="22px">
  </a>
 
-
-
-
 <br />
 
 
 Hi, I'm [Pawan Gupta](https://www.instagram.com/______.pawan___gupta___/), a passionate self-taught Software Developer, 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/mrpawan-gupta/Pawan-Gupta/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/mrpawan-gupta/Pawan-Gupta/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -60,10 +57,10 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  2000 codeforces points!          
+🏆  2000 karma points!          
 🌸  Completed 0 tasks today           
-✅  Completed 2 tasks so far  
-
+✅  Completed 538 tasks so far           
+⏳  Longest streak is 2 days
 
 <!-- TODO-IST:END -->
 
